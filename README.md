@@ -26,7 +26,7 @@ A comprehensive Python tool to generate a standardized, production-ready directo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/game-project-directory-creator.git
+git clone https://github.com/kursatturkay/game-project-directory-creator.git
 
 # Navigate to the directory
 cd game-project-directory-creator
